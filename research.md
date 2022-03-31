@@ -1,2 +1,2 @@
-1) Binary Code nədir?
-cavab:
+Hello World!
+
